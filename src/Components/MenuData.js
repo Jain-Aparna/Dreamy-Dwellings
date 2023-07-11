@@ -1,0 +1,96 @@
+const Menu = [
+    {
+        Title : "Tower Street Apartments",
+        image:"https://tse4.mm.bing.net/th?id=OIP.bO2UJJpLt0_rrNZBAkH7CwHaEK&pid=Api&P=0",
+        location :"500m from center",
+        pakage: "Dehli",
+        facility : "Studio Apartment with Air conditioning",
+        detail : "Entire studio • 1 bathroom • 21m² 1 full bed",
+        Description : "Free cancellation ",
+        cancellation:"You can cancel later, so lock in this great detail today!",
+        quality:"Excellent",
+        rating:"8.9",
+        price:"10000",
+        taxes:"Includes taxes and fees",
+        available:"See availability"
+    },
+    {
+        Title : "Taj Hotel",
+        image:"https://tse3.explicit.bing.net/th?id=OIP.CnUhGbxSeKiqoCr08dYfiQHaEu&pid=Api&P=0",
+        location :"2km from center",
+        pakage: "Mumbai",
+        facility : "Studio Apartment with Air conditioning",
+        detail : "Entire studio • 1 bathroom • 21m² 1 full bed",
+        Description : "No cancellation ",
+        cancellation:"You can't cancel later!",
+        quality:"Excellent",
+        rating:"9.8",
+        price:"10000",
+        taxes:"Includes taxes and fees",
+        available:"See availability"
+    },
+    {
+        Title : "Nahargarh Hotel",
+        image:"https://tse1.mm.bing.net/th?id=OIP.Lc15vwQeE995hp3BY6A4mwHaFL&pid=Api&P=0",
+        location :"5kms from center",
+        pakage: "Sawai Madhopur",
+        facility : "Studio Apartment with Air conditioning",
+        detail : "Entire studio • 1 bathroom • 21m² 1 full bed",
+        Description : "Free cancellation ",
+        cancellation:"You can cancel later, so lock in this great detail today!",
+        quality:"Excellent",
+        rating:"9.5",
+        price:"8000",
+        taxes:"Includes taxes and fees",
+        available:"See availability"
+    },
+    {
+        Title : "The Royal regency",
+        image:"https://tse4.mm.bing.net/th?id=OIP.ZsdbWh8Ackag79MtesrqXQHaFJ&pid=Api&P=0",
+        location :"1.5kms from center",
+        pakage: "Shimla",
+        facility : "Studio Apartment with Air conditioning",
+        detail : "Entire studio • 1 bathroom • 21m² 1 full bed",
+        Description : "Free cancellation ",
+        cancellation:"You can cancel later, so lock in this great detail today!",
+        quality:"Excellent",
+        rating:"9.2",
+        price:"6000",
+        taxes:"Includes taxes and fees",
+        available:"See availability"
+    },
+    {
+        Title : "wildflower Hall, An Oberoi Resort",
+        image:"https://tse1.mm.bing.net/th?id=OIP.zhZKr9Go62Hnbip91H_MfgHaFC&pid=Api&P=0",
+        location :"500m from center",
+        pakage: "Guwahati",
+        facility : "Studio Apartment with Air conditioning",
+        detail : "Entire studio • 1 bathroom • 21m² 1 full bed",
+        Description : "Free cancellation ",
+        cancellation:"You can cancel later, so lock in this great detail today!",
+        quality:"Excellent",
+        rating:"8.9",
+        price:"9000",
+        taxes:"Includes taxes and fees",
+        available:"See availability"
+    },
+    {
+        Title : "Grand Hayyt",
+        image:"https://tse3.mm.bing.net/th?id=OIP.N4kWtXWG0FmhsKqc3mzcVQHaEK&pid=Api&P=0",
+        location :"500m from center",
+        pakage: "Goa",
+        facility : "Studio Apartment with Air conditioning",
+        detail : "Entire studio • 1 bathroom • 21m² 1 full bed",
+        Description : "Free cancellation ",
+        cancellation:"You can cancel later, so lock in this great detail today!",
+        quality:"Excellent",
+        rating:"9.2",
+        price:"10000",
+        taxes:"Includes taxes and fees",
+        available:"See availability"
+    },
+   
+
+    
+];
+export default Menu
